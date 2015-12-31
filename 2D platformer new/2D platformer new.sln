@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D platformer new.CSharp.Plugins", "2D platformer new.CSharp.Plugins.csproj", "{903A3544-E759-F307-040F-E1E0EC9695DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D platformer new.CSharp", "2D platformer new.CSharp.csproj", "{2725A588-9F8C-6219-62A5-A7BA12E757BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D platformer new.CSharp.Editor", "2D platformer new.CSharp.Editor.csproj", "{21C88CC6-284B-E652-5C22-DE548BE150A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903A3544-E759-F307-040F-E1E0EC9695DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903A3544-E759-F307-040F-E1E0EC9695DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903A3544-E759-F307-040F-E1E0EC9695DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903A3544-E759-F307-040F-E1E0EC9695DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2725A588-9F8C-6219-62A5-A7BA12E757BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2725A588-9F8C-6219-62A5-A7BA12E757BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2725A588-9F8C-6219-62A5-A7BA12E757BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2725A588-9F8C-6219-62A5-A7BA12E757BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C88CC6-284B-E652-5C22-DE548BE150A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C88CC6-284B-E652-5C22-DE548BE150A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C88CC6-284B-E652-5C22-DE548BE150A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C88CC6-284B-E652-5C22-DE548BE150A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

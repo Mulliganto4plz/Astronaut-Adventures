@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 659a232017469b34da47f47b53cfd0f1
+timeCreated: 1451490945
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - staticTurretShot: {fileID: 151378, guid: 4b041f4745dfef544b2e94529fb9f5d8, type: 2}
+  - weaponMuzzleFlash: {fileID: 137492, guid: a213db2915d531145aa54125a14d1ae5, type: 2}
+  - alienBullet: {fileID: 130110, guid: c0ef8753a5638384b98dc6585a8162cf, type: 2}
+  - impactParticles: {fileID: 198196, guid: aa2c6e1b91fd762428340d2a4a04f747, type: 2}
+  - deathParticles: {fileID: 110208, guid: 29b1b8c34efa6714a864f2e4109a0526, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
